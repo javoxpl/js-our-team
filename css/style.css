@@ -52,7 +52,6 @@ section {
 
 .team-card {
   flex-basis: 370px;
-
   margin-top: 50px;
   margin-right: 28px;
 }
@@ -81,7 +80,7 @@ section {
   transform: scale(1.1, 1.1);
 
   opacity: .9;
-}
+} 
 
 .card-text {
   padding: 20px;
@@ -97,10 +96,6 @@ section {
   font-weight: 400;
 }
 
-.form-container {
-  max-width: 480px;
-  margin: auto;
-}
 
 label {
   margin-bottom: .25em;
